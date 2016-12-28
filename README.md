@@ -1,4 +1,4 @@
 # friendly-sniffle
 hiiii
-hoe r u?
+how r u?
 I am dimple
